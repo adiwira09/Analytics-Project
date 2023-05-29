@@ -2,3 +2,4 @@ Di projek ini saya menganalisis bagaimanakah performa penjualan ritel online. Da
 Pada projek ini akan memberikan kesimpulan bagaimana performa dari penjualan ritel online: 
 1. Bagaimanakah transaksi pada tahun 2009-2011
 2. Bagaimanakah cancellation rate dari tahun 2009-2011
+Tools yang digunakan adalah Google Colab dengan basis Python
